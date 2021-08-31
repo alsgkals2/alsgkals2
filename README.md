@@ -1,9 +1,9 @@
 ### Hola, I'm Minha Kim 👋
-- 🔭 I’m currently Master course in Sungkyunkwan University
+- 🔭 I’m currently Master course in Software Department of Sungkyunkwan University
 - 🌱 I’m currently learning Machine/Deep Learning
 - 👯 I’m looking to learn any Interasting Technologies
 - 💬 Ask me If you have some Question
-- 😄 Pronouns: She/Mina/Challote(?)
+- 😄 Pronouns: She/Mina/Charlotte(?)
 - ⚡ Fun fact: I spend most of my time in the lab ! (DASH)
 
 <!---
