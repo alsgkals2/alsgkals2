@@ -4,7 +4,7 @@
 - 👯 I’m looking to learn any Interasting Technologies
 - 💬 Ask me If you have some Question
 - 😄 Pronouns: She/Mina/Charlotte(?)
-- ⚡ Fun fact: I spent most of my time in the lab ! (DASH)
+- ⚡ Fun fact: I spent most of my time in the lab ! (DASH(https://dash-lab.github.io/))
 
 <!---
 ### Programming Languages  :rocket:
