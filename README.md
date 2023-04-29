@@ -13,7 +13,9 @@
 
 ### Tools :fire:
 
-![Minha's github stats](https://github-readme-stats.vercel.app/api?username=alsgkals2)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alsgkals2&layout=compact)
+![Minha's github stats](https://github-readme-stats.vercel.app/api?username=alsgkals2)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alsgkals2&layout=compact)
 
 ### Connect with me :smiley:
 <a href="https://www.instagram.com/dearhamin/">
