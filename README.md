@@ -21,5 +21,5 @@
 </a>
 
 <a href="https://www.linkedin.com/in/minhakim-sw/">
-  <img align="left" alt="Minha's Linkdin" width="21px" src="https://github.com/adityakamath16//?????????/">/blob/master/images/connect_with_me_images/linkedin.svg" />
+  <img align="left" alt="Minha's Linkdin" width="21px" src="https://www.linkedin.com/in/minhakim-sw/">/blob/master/images/connect_with_me_images/linkedin.svg" />
 </a>
