@@ -1,10 +1,9 @@
-### Hola, I'm Minha Kim 👋
+### Hi, I'm Minha Kim 👋
 - 🔭 I graduated Master course in Software Department of Sungkyunkwan University
 - 🌱 I’m currently learning Machine/Deep Learning
 - 👯 I’m looking to learn any Interasting Technologies
 - 💬 Ask me If you have some Question
 - 😄 Pronouns: She/Mina/Charlotte(?)
-- ⚡ Fun fact: I spent most of my time in the lab ! (DASH(https://dash-lab.github.io/))
 
 <!---
 ### Programming Languages  :rocket:
