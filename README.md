@@ -20,8 +20,6 @@
   <img align="left" alt="minha Instagram" width="21px" src="https://github.com/alsgkals2/alsgkals2/blob/main/images/connect_with_me_images/instagram-main.svg" />
 </a>
 
-<!---
-<a href="https://www.linkedin.com/in/?????????/">
-  <img align="left" alt="MINHA's Linkdin" width="21px" src="https://github.com/adityakamath16//?????????/">/blob/master/images/connect_with_me_images/linkedin.svg" />
+<a href="https://www.linkedin.com/in/minhakim-sw/">
+  <img align="left" alt="Minha's Linkdin" width="21px" src="https://github.com/adityakamath16//?????????/">/blob/master/images/connect_with_me_images/linkedin.svg" />
 </a>
--->
